@@ -12,13 +12,13 @@ The hardware components of SpeedSpy are fully integrated with the vehicle. The P
 
 The SpeedSpy Blynk app includes a map widget for plotting locations where readings were taken along with the speed at the time of the reading. The below image depicts the interface of the Blynk app with a GPS coordinate selected, showing a speed of 43 miles per hour for that reading.
 
-[Blynk](images/blynk.png)
+[Blynk](images/blynk.png?raw=true)
 
 The SpeedSpy Blynk app also includes a mute button for silencing the speeding alarm, a speedometer for visualizing the current GPS speed, and two indicators that respectively signal speeding and a GPS fix.
 
 ## Wiring diagram
 
-![Wiring diagram](images/wiring.png)
+[Wiring diagram](images/wiring.png)
 
 ## Hardware
 
@@ -32,8 +32,8 @@ Lastly, an external LED light is connected to the `FIX` pin of the GPS board to 
 
 Shown below are the connected hardware components of SpeedSpy outside of the vehicle console enclosure.
 
-![Hardware](hardware.jpg)
+[Hardware](hardware.jpg)
 
 The main breadboard with the Photon, amplifier, and GPS unit is show below.
 
-![Breadboard](breadboard.jpg)
+[Breadboard](breadboard.jpg)
