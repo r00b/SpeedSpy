@@ -18,7 +18,7 @@ The SpeedSpy Blynk app also includes a mute button for silencing the speeding al
 
 ## Wiring diagram
 
-![Wiring diagram](images/wiring.png)
+![Wiring diagram](images/wiring.jpg)
 
 ## Hardware
 
@@ -32,8 +32,8 @@ Lastly, an external LED light is connected to the `FIX` pin of the GPS board to 
 
 Shown below are the connected hardware components of SpeedSpy outside of the vehicle console enclosure.
 
-![Hardware](hardware.jpg)
+![Hardware](images/hardware.jpg)
 
 The main breadboard with the Photon, amplifier, and GPS unit is show below.
 
-![Breadboard](breadboard.jpg)
+![Breadboard](images/breadboard.jpg)
